@@ -18,8 +18,7 @@ header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .container{
-    padding-left: 50px;
-    padding-right: 50px;
+
     margin: auto;
 
 }
@@ -46,11 +45,11 @@ a{
     text-decoration: none;
 }
 .za{
-    border-radius: 10px;
     background-color: #4E9BF4;
     margin: auto;
     text-align: center;
-    padding: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-top: 50px;
 }
 
